@@ -29,9 +29,8 @@
 ---
 
 ## 🌐 Connect with Me  
-- 💼 LinkedIn: [your-linkedin](#)  
-- 🐦 Twitter: [your-twitter](#) (if you want to share)  
-- 📧 Email: youremail@example.com  
+- 💼 LinkedIn: www.linkedin.com/in/mukundh-meenakshisundaram-0426b3301 
+- 📧 Email: mukundhmeenakshisundaram@gmail.com
 
 ---
 
