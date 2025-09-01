@@ -22,8 +22,8 @@
 ---
 
 ## 📝 Labs & Write-ups  
-- ✅ [SQL Injection: UNION attack – column count determination](#)  
-- ✅ [SQL Injection: retrieving hidden data](#)  
+- ✅ SQL Injection: UNION attack – column count determination  
+- ✅ SQL Injection: retrieving hidden data
 *(More labs coming soon as I progress)*  
 
 ---
