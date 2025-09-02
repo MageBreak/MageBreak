@@ -23,14 +23,15 @@
 
 ## 📝 Labs & Write-ups  
 - ✅ SQL Injection: UNION attack – column count determination  
-- ✅ SQL Injection: retrieving hidden data
+- ✅ SQL Injection: retrieving hidden data  
+- ✅ SQL Injection: retrieving multiple values in a single column  
 *(More labs coming soon as I progress)*  
 
 ---
 
 ## 🌐 Connect with Me  
-- 💼 LinkedIn: www.linkedin.com/in/mukundh-meenakshisundaram-0426b3301 
-- 📧 Email: mukundhmeenakshisundaram@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/mukundh-meenakshisundaram-0426b3301)  
+- 📧 Email: mukundhmeenakshisundaram@gmail.com  
 
 ---
 
