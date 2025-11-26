@@ -24,7 +24,8 @@
 ## 📝 Labs & Write-ups  
 - ✅ SQL Injection: UNION attack – column count determination  
 - ✅ SQL Injection: retrieving hidden data  
-- ✅ SQL Injection: retrieving multiple values in a single column  
+- ✅ SQL Injection: retrieving multiple values in a single column
+- ✅ SQL injection attack, querying the database type and version on Oracle
 *(More labs coming soon as I progress)*  
 
 ---
