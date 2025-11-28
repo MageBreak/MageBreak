@@ -22,12 +22,13 @@
 ---
 
 ## 📝 Labs & Write-ups  
-- ✅ SQL Injection: UNION attack – column count determination  
-- ✅ SQL Injection: retrieving hidden data  
-- ✅ SQL Injection: retrieving multiple values in a single column
-- ✅ SQL injection attack, querying the database type and version on Oracle
-- ✅ Lab: User ID controlled by request parameter
-- ✅ Lab: Unprotected admin functionality with unpredictable URL
+- SQL Injection: UNION attack – column count determination  
+- SQL Injection: retrieving hidden data  
+- SQL Injection: retrieving multiple values in a single column
+- SQL injection attack, querying the database type and version on Oracle
+- Lab: User ID controlled by request parameter
+- Lab: Unprotected admin functionality with unpredictable URL
+- Lab: User role can be modified in user profile
 *(More labs coming soon as I progress)*  
 
 ---
