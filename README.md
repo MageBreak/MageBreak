@@ -1,30 +1,38 @@
-# 👋 Hi, I’m MageBreak  
+# 👋 Hi, I’m MageBreak
 
-## 🚀 About Me  
-- 🎓 Cybersecurity student with a focus on penetration testing and incident response  
-- 🛠 Currently learning **web app security (PortSwigger Labs)** and **APT defense strategies**  
-- 🎯 Interested in red teaming, blue teaming, and threat hunting  
-
----
-
-## 🧰 Skills & Tools  
-- **Languages:** Python, Bash, SQL  
-- **Security Tools:** Burp Suite, Wireshark, Nmap, Metasploit  
-- **Platforms:** Linux (Kali, Ubuntu), Windows Server  
-- **Version Control:** Git & GitHub  
+## 🚀 Professional Focus
+- 🛡️ **Security Researcher** specializing in **APT Detection & System Log Forensics**.
+- ⚔️ **Offensive Security Practitioner** focused on Web Application Security and Network Penetration Testing.
+- 🎓 **OSCP Student** (Target: Summer 2026).
+- 🏆 Aspiring Core Member of **Team 1nf1n1ty** (CTF).
 
 ---
 
-## 📘 Current Projects  
-- 🔒 **Web Security Academy Labs** – documenting step-by-step solutions for SQLi, XSS, and more  
-- 📂 **Learning Notes** – cybersecurity theory notes (APT lifecycle, threat actors, etc.)  
+## ⚡ Current Research & Projects
+- **APT Detection via Feature Engineering** (Research Lead)
+  - Developing a forensic pipeline to detect Advanced Persistent Threats (APTs) in Linux System Logs (`auditd`).
+  - Focusing on **TTP-based Feature Engineering** to reduce high-dimensionality noise in ML detection models.
+  - *Tech Stack:* Python, Pandas, Regex, MITRE ATT&CK Framework.
+
+- **Web Security Portfolio** (Active)
+  - Documenting a path to **56+ PortSwigger Labs** covering OWASP Top 10.
+  - 📂 [View my Solutions & Methodology](link-to-your-repo)
 
 ---
 
-## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mukundh-meenakshisundaram-0426b3301)  
-- 📧 Email: mukundhmeenakshisundaram@gmail.com  
+## 🧰 Technical Arsenal
+| Domain | Tools & Skills |
+| :--- | :--- |
+| **Offensive** | Burp Suite Pro, Nmap, Metasploit, Wireshark, Bash Scripting |
+| **Defensive** | Splunk, ELK Stack, Linux Forensics, Auditd Analysis |
+| **Development** | Python (Automation/Data Parsing), SQL, Regex |
+| **Platforms** | Linux (Daily Driver), Windows Server |
 
 ---
 
-⭐️ *Thanks for visiting! I’m actively learning and sharing my journey into cybersecurity.*
+## 🌐 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/mukundh-meenakshisundaram-0426b3301)
+- 📧 **Email:** mukundhmeenakshisundaram@gmail.com
+
+---
+⭐️ *Exploring the intersection of Red Team operations and Blue Team forensics.*
