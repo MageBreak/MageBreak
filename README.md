@@ -27,6 +27,7 @@
 - ✅ SQL Injection: retrieving multiple values in a single column
 - ✅ SQL injection attack, querying the database type and version on Oracle
 - ✅ Lab: User ID controlled by request parameter
+- ✅ Lab: Unprotected admin functionality with unpredictable URL
 *(More labs coming soon as I progress)*  
 
 ---
