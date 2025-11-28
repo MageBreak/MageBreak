@@ -29,6 +29,7 @@
 - Lab: User ID controlled by request parameter
 - Lab: Unprotected admin functionality with unpredictable URL
 - Lab: User role can be modified in user profile
+- Lab: User ID controlled by request parameter, with unpredictable user IDs
 *(More labs coming soon as I progress)*  
 
 ---
