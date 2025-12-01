@@ -16,7 +16,7 @@
 
 - **Web Security Portfolio** (Active)
   - Documenting a path to **56+ PortSwigger Labs** covering OWASP Top 10.
-  - 📂 [View my Solutions & Methodology]((https://github.com/MageBreak/portswigger-labs))
+  - 📂 [View my Solutions & Methodology](https://github.com/MageBreak/portswigger-labs)
 
 ---
 
