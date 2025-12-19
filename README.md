@@ -9,7 +9,7 @@
 ---
 
 ## ⚡ Current Research & Projects
-- **APT Detection via Feature Engineering** (Research Lead)
+- **APT Detection via Feature Engineering** (Research)
   - Developing a forensic pipeline to detect Advanced Persistent Threats (APTs) in Linux System Logs (`auditd`).
   - Focusing on **TTP-based Feature Engineering** to reduce high-dimensionality noise in ML detection models.
   - *Tech Stack:* Python, Pandas, Regex, MITRE ATT&CK Framework.
