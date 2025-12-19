@@ -3,7 +3,7 @@
 ## 🚀 Professional Focus
 - 🛡️ **Security Researcher** specializing in **APT Detection & System Log Forensics**.
 - ⚔️ **Offensive Security Practitioner** focused on Web Application Security and Network Penetration Testing.
-- 🎓 **OSCP Student** (Target: Summer 2026).
+- 🎓 **CPTS Aspirant** (Target: Summer 2026).
 - 🏆 Aspiring Core Member of **Team 1nf1n1ty**.
 
 ---
