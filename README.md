@@ -34,5 +34,5 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/mukundh-meenakshisundaram-0426b3301)
 - 📧 **Email:** mukundhmeenakshisundaram@gmail.com
 
----
-⭐️ *Exploring the intersection of Red Team operations and Blue Team forensics.*
+## 📊 GitHub Activity
+![MageBreak's GitHub stats](https://github-readme-stats.vercel.app/api?username=MageBreak&show_icons=true&theme=radical)
