@@ -15,7 +15,7 @@
   - *Tech Stack:* Python, Pandas, Regex, MITRE ATT&CK Framework.
 
 - **Web Security Portfolio** (Active)
-  - Documenting a path to **56+ PortSwigger Labs** covering OWASP Top 10.
+  -Documenting PortSwigger Labs journey covering OWASP Top 10.
   - 📂 [View my Solutions & Methodology](https://github.com/MageBreak/portswigger-labs)
 
 ---
