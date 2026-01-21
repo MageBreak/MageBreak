@@ -3,7 +3,7 @@
 ## 🚀 Professional Focus
 - 🛡️ **Security Researcher** specializing in **APT Detection & System Log Forensics**.
 - ⚔️ **Offensive Security Practitioner** focused on Web Application Security and Network Penetration Testing.
-- 🎓 **CPTS Aspirant** (Target: Summer 2026).
+- 🎓 **CCNA Aspirant** (Target: Summer 2026).
 
 ---
 
