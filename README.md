@@ -22,8 +22,11 @@
 ## 🧰 Technical Arsenal
 
 **Tools**
+
 Burp Suite Community edition, NMap, Metasploit, Wireshark, Bash, Splunk, Siem, Linux/Windows Forensics, velociraptor, volatility3, etc.
+
 **Platforms**
+
 Windows 11 (primary), WSL (ubuntu), Kali Linux on VM
 
 
