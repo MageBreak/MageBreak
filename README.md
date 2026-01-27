@@ -20,12 +20,12 @@
 ---
 
 ## 🧰 Technical Arsenal
-| Domain | Tools & Skills |
-| :--- | :--- |
-| **Offensive** | Burp Suite Pro, Nmap, Metasploit, Wireshark, Bash Scripting |
-| **Defensive** | Splunk, ELK Stack, Linux Forensics, Auditd Analysis |
-| **Development** | Python (Automation/Data Parsing), SQL, Regex |
-| **Platforms** | Linux (Daily Driver), Windows Server |
+
+**Tools**
+Burp Suite Community edition, NMap, Metasploit, Wireshark, Bash, Splunk, Siem, Linux/Windows Forensics, velociraptor, volatility3, etc.
+**Platforms**
+Windows 11 (primary), WSL (ubuntu), Kali Linux on VM
+
 
 ---
 
