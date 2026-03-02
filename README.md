@@ -7,19 +7,7 @@
 
 ---
 
-## ⚡ Current Research & Projects
-- **APT Detection via Feature Engineering** (Research)
-  - Developing a forensic pipeline to detect Advanced Persistent Threats (APTs) in Linux System Logs (`auditd`).
-  - Focusing on **TTP-based Feature Engineering** to reduce high-dimensionality noise in ML detection models.
-  - *Tech Stack:* Python, Pandas, Regex, MITRE ATT&CK Framework.
-
-- **Web Security Portfolio** (Active)
-  -Documenting PortSwigger Labs journey covering OWASP Top 10.
-  - 📂 [View my Solutions & Methodology](https://github.com/MageBreak/portswigger-labs)
-
----
-
-## 🧰 Technical Arsenal
+##  Technical tools
 
 **Tools**
 
@@ -32,7 +20,7 @@ Windows 11 (primary), WSL (ubuntu), Kali Linux on VM
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/mukundh-meenakshisundaram-0426b3301)
 - 📧 **Email:** mukundhmeenakshisundaram@gmail.com
 
