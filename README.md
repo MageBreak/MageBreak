@@ -1,28 +1,21 @@
-# 👋 Hi, I’m MageBreak
+# 👋 Hi, I'm Mukundh (MageBreak)
 
-## 🚀 Professional Focus
-- 🛡️ **Security Researcher** specializing in **APT Detection & System Log Forensics**.
-- ⚔️ **Offensive Security Practitioner** focused on Web Application Security and Network Penetration Testing.
-- 🎓 **CCNA Aspirant** (Target: Summer 2026).
+## 🛡️ Detection Engineering & DFIR
+Undergraduate cybersecurity researcher focused on **threat detection and digital forensics**, 
+with a specialization in **ML/AI-augmented defense**. I work on anomaly-based detection over 
+Windows (Sysmon/EVTX) and Linux telemetry, mapped to MITRE ATT&CK, in an APT Research Group 
+at SASTRA's Centre for Information Superhighway.
 
----
+Top 5 in India on CTFtime with Team 1nf1n1ty. Pursuing GIAC GCFA and HTB CDSA.
 
-##  Technical tools
+## 🔧 Focus Areas
+- Detection engineering (Sigma rules, SIEM, log analysis)
+- DFIR (Volatility3, Velociraptor, Windows/Linux forensics)
+- Security ML (anomaly detection, UEBA, classification)
+- Threat hunting & MITRE ATT&CK mapping
 
-**Tools**
-
-Burp Suite Community edition, NMap, Metasploit, Wireshark, Bash, Splunk, Siem, Linux/Windows Forensics, velociraptor, volatility3, etc.
-
-**Platforms**
-
-Windows 11 (primary), WSL (ubuntu), Kali Linux on VM
-
-
----
+## 🧰 Tools
+Splunk · Elastic · Sigma · Sysmon · Wireshark · Volatility3 · Velociraptor · Python · Bash
 
 ## 🌐 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/mukundh-meenakshisundaram-0426b3301)
-- 📧 **Email:** mukundhmeenakshisundaram@gmail.com
-
-## 📊 GitHub Activity
-![MageBreak's GitHub stats](https://github-readme-stats.vercel.app/api?username=MageBreak&show_icons=true&theme=radical)
+💼 [LinkedIn](your-url) · 📧 mukundhmeenakshisundaram@gmail.com
